@@ -138,7 +138,7 @@
 .bet-button {
     background: transparent;
     border: 1px solid #fff;
-    color: #fff;                
+    color: #fff;
     font-family: Raleway, sans-serif;
     font-size: 22px;
     font-weight: 500;
@@ -219,7 +219,7 @@
 }
 
 .card__title {
-    position: relative; 
+    position: relative;
     z-index: 2;
     font-size: 22px;
     font-weight: 700;
@@ -248,7 +248,7 @@
 .about {
     display: grid;
     grid-template-columns: 334px 1fr;
-    gap: 72px;
+    gap: 24px;
     width: 1052px;
     height: 595px;
     margin: 120px auto 180px auto;
@@ -272,7 +272,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 240px;   
+    width: 240px;
     height: 240px;
     background-color: #000;
     border-radius: 50%;
