@@ -8,10 +8,6 @@ body {
   width: 1100px;
   margin: 0 auto;
   font-family: Raleway, sans-serif;
-  box-sizing: border-box;
-  width: 1100px;
-  margin: 0 auto;
-  font-family: Raleway, sans-serif;
   background-color: #FFF;
 }
 
@@ -42,7 +38,7 @@ button {
   font: inherit;
 }
 
-address{
+address {
   margin: 0;
   padding: 0;
   box-sizing: border-box;

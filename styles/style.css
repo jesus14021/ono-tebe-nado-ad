@@ -1,4 +1,4 @@
-.header{
+.header {
     width: 1100px;
     height: 293px;
     display: grid;
@@ -7,17 +7,17 @@
     padding: 92px 50px 96px 50px;
 }
 
-.header__menu{
+.header__menu {
     display: flex;
 }
 
-.header__link{
+.header__link {
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: normal;
 }
 
-.header__link_active{
+.header__link_active {
     text-decoration: underline;
     text-decoration-thickness: 1px;
     text-underline-offset: 4px;
@@ -92,7 +92,7 @@
     height: 385px;
     width: 1000px;
     position: relative;
-    z-index: 2; 
+    z-index: 2;
     font-size: 100px;
     font-weight: 700;
     text-transform: uppercase;
@@ -136,8 +136,8 @@
 }
 
 .bet-button {
-    background: transparent;      
-    border: 1px solid #fff;       
+    background: transparent;
+    border: 1px solid #fff;
     color: #fff;                
     font-family: Raleway, sans-serif;
     font-size: 22px;
@@ -147,8 +147,8 @@
     letter-spacing: 0;
     padding: 12px 32px;
     cursor: pointer;
-    z-index: 2;                 
-}
+    z-index: 2;
+    }
 
 .lots {
     width: 1052px;
@@ -301,7 +301,6 @@
 .about__text p {
     width: 100%;
     max-width: 693px;
-    margin: 0;
     font-family: Raleway, sans-serif;
     font-weight: 400;
     font-size: 20px;
